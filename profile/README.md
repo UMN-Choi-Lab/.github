@@ -1,4 +1,8 @@
-## Hi there 👋
+## Choi-Lab at the Department of Civil, Environmental, and Geo- Engineering at the University of Minnesota, Twin Cities.
+
+[https://choi-seongjin.github.io/](https://choi-seongjin.github.io/)
+
+
 
 <!--
 

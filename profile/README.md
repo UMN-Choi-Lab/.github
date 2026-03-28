@@ -39,8 +39,8 @@ We develop **machine learning methods for urban transportation and mobility**, w
         <img src="https://img.shields.io/github/stars/UMN-Choi-Lab/BO4Mob?style=social" alt="stars"><br>
         <b>BO4Mob</b>
       </a><br>
-      <sub>Bayesian optimization for mobility &amp; scalable probabilistic forecasting</sub><br>
-      <sub><i>Transportation Science, 2025</i></sub>
+      <sub>Bayesian optimization benchmarks for high-dimensional urban mobility</sub><br>
+      <sub><i>NeurIPS, 2025</i></sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/UMN-Choi-Lab/TrajFlow">
@@ -83,6 +83,7 @@ We develop **machine learning methods for urban transportation and mobility**, w
 
 | Year | Paper | Venue |
 |:----:|-------|:-----:|
+| 2025 | [BO4Mob: Bayesian Optimization Benchmarks for High-Dimensional Urban Mobility Problem](https://arxiv.org/abs/2510.18824) | NeurIPS |
 | 2025 | [A Gentle Introduction and Tutorial on Deep Generative Models in Transportation Research](https://doi.org/10.1016/j.trc.2025.105145) | TR Part C |
 | 2025 | [Scalable Dynamic Mixture Model with Full Covariance for Probabilistic Traffic Forecasting](https://doi.org/10.1287/trsc.2024.0547) | Transportation Science |
 | 2025 | [Adversarial Vulnerabilities in Large Language Models for Time Series Forecasting](https://arxiv.org/abs/2412.08099) | AISTATS |
